@@ -1,6 +1,6 @@
  <li>Integração Continua</li>
     </ul>
-    <li> Curso de programação<li>
+    <dd> Curso de programação<dd>
 
     <Footer>Página desenvolvida pelos estagiários do Processo de Formação!! =D</Footer>
 
