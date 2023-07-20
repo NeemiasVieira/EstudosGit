@@ -15,7 +15,8 @@
         <li>Integração Continua:maturidade e produtividade no desenvolvimento de software </li>
         <li>kubernetes: Introdução a orquestração de containers</li>
         <li>Curso de Gestão Ágil </li>
->>>>>>> 8456233330c21037ebd86971ab9cc7ca243229ce
+        <li>Curso de git </li>
+>>>>>>> 84562git 33330c21037ebd86971ab9cc7ca243229ce
     </ul>
     <dd> Curso de programação<dd>
 
