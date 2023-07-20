@@ -10,7 +10,7 @@ header{
 body{
     font-family: 'Inter', 'sans-serif';
     font-size: 1.5rem;
-    background-color: #1B2430;
+    background-color: #4bf;
     color: #F6F6F6;
 }
 
@@ -52,6 +52,18 @@ ul{
     position: fixed;
     top: 0;
     left: 0;  
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.4);
     
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: all 300ms;
+}
+
+a:hover{
+    transform: scale(1.1);
+    color: #ff4500;
 }
