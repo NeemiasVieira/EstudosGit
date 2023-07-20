@@ -9,7 +9,7 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant:gerenciando maquina virtual</li>
+        <li>Vagrant</li>
         <li>Docker:Criando containers sem dor de cabeça </li>
         <li>Ansible: Infraestrutura como codigo</li>
         <li>Integração Continua:maturidade e produtividade no desenvolvimento de software </li>
