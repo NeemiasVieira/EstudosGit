@@ -1,4 +1,21 @@
+<<<<<<< HEAD
  <li>Integração Continua</li>
+=======
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cursos da Alura</title>
+</head>
+<body>
+    <ul>
+        <li>Vagrant:gerenciando maquina virtual</li>
+        <li>Docker:Criando containers sem dor de cabeça </li>
+        <li>Ansible: Infraestrutura como codigo</li>
+        <li>Integração Continua:maturidade e produtividade no desenvolvimento de software </li>
+        <li>kubernetes: Introdução a orquestração de containers</li>
+        <li>Curso de Gestão Ágil </li>
+>>>>>>> 8456233330c21037ebd86971ab9cc7ca243229ce
     </ul>
     <dd> Curso de programação<dd>
 
