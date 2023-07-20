@@ -8,9 +8,9 @@
     <ul>
         <li>Vagrant:gerenciando maquina virtual</li>
         <li>Docker:Criando containers sem dor de cabeça </li>
-        <li>Ansible</li>
+        <li>Ansible: Infraestrutura como codigo</li>
         <li>Integração Continua:maturidade</li>
-        <li>kubernetes</li>
+        <li>kubernetes: Introdução a orquestração de containers</li>
     </ul>
 </body>
 </html>
