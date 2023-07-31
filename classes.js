@@ -13,6 +13,10 @@ class Usuario {
 }
 
 const pessoa1 = new Usuario("João do Brás", 27, true);
-pessoa1.exibeInfo();
 pessoa1.telefone = 13996020483;
 console.log(pessoa1);
+
+const pessoa2 = new Usuario("José da Silva", 40, true);
+pessoa2.exibeInfo();
+
+pessoa2.credenciado === true ? console.log("credenciado") : console.log("Não credenciado");
